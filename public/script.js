@@ -2,7 +2,6 @@
 // Simulador Simples de Orçamento Pessoal
 // =============================================
 
-// ── 1. DADOS INICIAIS ──────────────────────
 
 // Nome do usuário
 const nome = prompt("Qual é o seu nome?");
