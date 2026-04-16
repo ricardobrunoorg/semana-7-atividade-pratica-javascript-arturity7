@@ -5,12 +5,13 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Arthur Gabriel de Oliveira Fonseca Santos
+- Matricula: 924860
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+<img width="1365" height="672" alt="image" src="https://github.com/user-attachments/assets/79147e4e-479a-4b54-bdc2-91af3f14775c" />
+
 
 
 
